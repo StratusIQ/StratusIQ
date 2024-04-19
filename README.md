@@ -40,5 +40,3 @@ For support, email us at jboucher@stratusiq.com or open an issue in this reposit
 
 ## License
 This project is licensed under the LICENSE - see the file for details.
-
-This README provides a good starting point. Be sure to fill in any additional specifics about your projects, coding standards, and any other important details that would be relevant for developers or future contributors.
